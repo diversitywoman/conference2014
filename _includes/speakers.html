@@ -1,0 +1,48 @@
+    <section id="speakers">
+      <article>
+        <div class="columns large-12">
+          <h1 class="color1">Mentors, Sponsors and Breaking the Glass Ceiling Through Our Allies</h1>
+          <br /><br /><br />
+          {% if site.categories.honorees %}
+          <h2>The Honorees</h2>
+          <p>People who inspire us</p>
+          <br /><br /><br />
+          {% for post in site.categories.honorees reversed %}
+          <div class="speaker honor">
+            {% if post.honor %}<h4 class="honor">Mosaic Woman<br />{{ post.honor }}</h4>{% endif %}
+            <div class="front">
+              <div class="imagecontainer"><img src="{{ site.assets.honoree }}{{ post.image }}" alt="{{ post.name }}, {{ post.title }}" /></div>
+              <h3>{{ post.name }}</h3>
+              <h4>{{ post.title }}</h4>
+            </div>
+            <div class="back">
+              <h3>{{ post.name }}</h3>
+              <h4>{{ post.title }}</h4>
+              <p>{{ post.teaser }}</p>
+              <div class="linkgroup">
+                <a href="{{ post.url }}" target="_self" title="Read More"><i class="icon-plus"></i></a>
+              </div>
+            </div>
+          </div>{% endfor %}
+          {% endif %}
+          <h2>The Speakers</h2>
+          <p>We bet you will learn something new</p>
+          {% for post in site.categories.speakers reversed %}
+          <div class="speaker">
+            <div class="front">
+              <div class="imagecontainer"><img src="{{ site.assets.speaker }}{{ post.image }}"  alt="{{ post.name }}, {{ post.title }}"  /></div>
+              <h3>{{ post.name }}</h3>
+              <h4>{{ post.title }}</h4>
+            </div>
+            <div class="back">
+              <h3>{{ post.name }}</h3>
+              <h4>{{ post.title }}</h4>
+              <p>{{ post.teaser }}</p>
+              <div class="linkgroup">
+                <a href="{{ post.url }}" target="_self" title="Read More"><i class="icon-plus"></i></a>
+             </div>
+            </div>
+          </div>{% endfor %}
+        </div>
+      </article>
+    </section>
