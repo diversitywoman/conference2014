@@ -80,12 +80,12 @@ $('.trig-coaching').click(function(event) {
  */
 
 var map;
-var address = new google.maps.LatLng(38.782494,-77.016485);
+var address = new google.maps.LatLng(28.4066232,-81.58820049999997);
 
 function initialize() {
 
   var mapOptions = {
-    zoom:13,
+    zoom:15,
     center: address,
     mapTypeControlOptions: {
        mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'div']
