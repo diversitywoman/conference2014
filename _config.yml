@@ -36,5 +36,5 @@ assets:
   honoree: '/assets/images/honorees/'
 
 eventbrite:
-  event-id: '//7020860583'
-  app-key: '//4HSDJIEFIFGXFYAM2Z'
+  event-id: '7020860583'
+  app-key: '4HSDJIEFIFGXFYAM2Z'
