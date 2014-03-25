@@ -5,7 +5,7 @@ paginate: 10
 version: 0.9
 seo:
   author: "Nicholas Kingston, Scott Schaffter - Bivee LLC"
-  description: 
+  description:
   keywords:
 
 contact:
@@ -13,12 +13,12 @@ contact:
   email: ''
   address: ''
 
-url:
+url: '/conference2014'
 permalink: /:title
-  
+
 social:
 
-  
+
 google:
   analytics : '//UA-43775034-1//'
   domain: 'diversitywoman.com'
@@ -36,5 +36,5 @@ assets:
   honoree: '/assets/images/honorees/'
 
 eventbrite:
-  event-id: '//7020860583'
-  app-key: '//4HSDJIEFIFGXFYAM2Z'
+  event-id: '7020860583'
+  app-key: '4HSDJIEFIFGXFYAM2Z'
