@@ -13,14 +13,14 @@ contact:
   email: ''
   address: ''
 
-url: ''
+url: 'http://conference2014.diversitywoman.com/'
 permalink: /:title
 
 social:
 
 
 google:
-  analytics : '//UA-43775034-1//'
+  analytics : 'UA-43775034-1'
   domain: 'diversitywoman.com'
 
 facebook:
