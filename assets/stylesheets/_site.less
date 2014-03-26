@@ -3,10 +3,10 @@
 
   section {
     position: relative;
+    z-index: 100 !important;
     padding-top: 60px;
     padding-bottom: 60px;
     background: @white;
-    z-index: 1;
     margin:0;
     text-align: center;
     border-bottom: 1px solid darken(@offwhite, 5%);
@@ -26,16 +26,6 @@
     width: 100%;
     content: " ";
   }
-  #darken {
-    content: "";
-    background: fade(@black,30%);
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-  }
-
 /* Nav Menus
 ================================================== */
   
@@ -492,8 +482,7 @@
       top:1px;
     }
 
-  section#regbutton {
-  
+  section#regbutton {  
     .counter {
       padding-top: 10px;
       padding-bottom: 40px;
