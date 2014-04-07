@@ -226,10 +226,10 @@ p {
 ================================================== */
 section {
   position: relative;
+  z-index: 100 !important;
   padding-top: 60px;
   padding-bottom: 60px;
   background: #ffffff;
-  z-index: 1;
   margin: 0;
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
@@ -247,15 +247,6 @@ section h2 {
   height: 0;
   width: 100%;
   content: " ";
-}
-#darken {
-  content: "";
-  background: rgba(51, 51, 51, 0.3);
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
 }
 /* Nav Menus
 ================================================== */
@@ -331,6 +322,19 @@ header#site_header img {
   padding-bottom: 1em;
   border-bottom: 1px solid #d9d9d9;
   color: #f1192e;
+}
+#speakers h1 span {
+  display: block;
+}
+#speakers h1 span.small {
+  font-size: 60%;
+  color: #333333;
+  line-height: 140%;
+}
+#speakers h1 span.smallest {
+  font-size: 40%;
+  color: #89949b;
+  line-height: 140%;
 }
 #speakers .speaker.honor {
   margin-top: 30px;
