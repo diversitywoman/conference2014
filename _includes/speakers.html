@@ -11,7 +11,7 @@
           <div class="speaker honor">
             {% if post.honor %}<h4 class="honor">Mosaic Woman<br />{{ post.honor }}</h4>{% endif %}
             <div class="front">
-              <div class="imagecontainer"><img src="{{ site.url }}{{ site.assets.honoree }}{{ post.image }}" alt="{{ post.name }}, {{ post.title }}" /></div>
+              <div class="imagecontainer"><img src="{{ site.assets.honoree }}{{ post.image }}" alt="{{ post.name }}, {{ post.title }}" /></div>
               <h3>{{ post.name }}</h3>
               <h4>{{ post.title }}</h4>
             </div>
@@ -20,7 +20,7 @@
               <h4>{{ post.title }}</h4>
               <p>{{ post.teaser }}</p>
               <div class="linkgroup">
-                <a href="{{ site.url }}{{ post.url }}" target="_self" title="Read More"><i class="icon-plus"></i></a>
+                <a href="{{ post.url }}" target="_self" title="Read More"><i class="icon-plus"></i></a>
               </div>
             </div>
           </div>{% endfor %}
@@ -30,7 +30,7 @@
           {% for post in site.categories.speakers reversed %}
           <div class="speaker">
             <div class="front">
-              <div class="imagecontainer"><img src="{{ site.url }}{{ site.assets.speaker }}{{ post.image }}"  alt="{{ post.name }}, {{ post.title }}"  /></div>
+              <div class="imagecontainer"><img src="{{ site.assets.speaker }}{{ post.image }}"  alt="{{ post.name }}, {{ post.title }}"  /></div>
               <h3>{{ post.name }}</h3>
               <h4>{{ post.title }}</h4>
             </div>
@@ -39,7 +39,7 @@
               <h4>{{ post.title }}</h4>
               <p>{{ post.teaser }}</p>
               <div class="linkgroup">
-                <a href="{{ site.url }}{{ post.url }}" target="_self" title="Read More"><i class="icon-plus"></i></a>
+                <a href="{{ post.url }}" target="_self" title="Read More"><i class="icon-plus"></i></a>
              </div>
             </div>
           </div>{% endfor %}
