@@ -4,7 +4,7 @@ date: "2013-07-14 08:30"
 categories: committee
 name: Theresa Thompson
 title: "Director of Diversity and Inclusion, Lowe’s Companies"
-image: Thompson_Theresa.jpg
+image: Thompson_Theresa.JPG
 published: true
 teaser: "Theresa leads the work to embed D&I into the company’s culture. She provides leadership and consultative services to support enterprise-wide strategic priorities focused on sustaining a diverse and inclusive company."
 in: null
