@@ -254,7 +254,7 @@ nav#main {
   background: #333333;
   position: fixed;
   top: 0;
-  z-index: 100;
+  z-index: 101;
   border-bottom: 5px solid #f1192e;
   text-align: center;
 }
