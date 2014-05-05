@@ -1,11 +1,11 @@
 ---
 date: 2013-10-03 11:15
-hour: 11:15 am - 1 pm
+hour: "11:15 am - 1 pm"
 title: Leadership Coaching Sessions
 name: 
 company:
 categories: day2
-expand:y
+expand: y
 class: trig-coaching
 ---
 

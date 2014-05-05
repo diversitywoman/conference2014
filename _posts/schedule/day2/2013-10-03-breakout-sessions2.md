@@ -1,6 +1,6 @@
 ---
 date: 2013-10-03 11:15
-hour: 11:15 am - 1:00 pm
+hour: "11:15 am - 1:00 pm"
 title: "DIVERSITY & INCLUSION LEADERSHIP SESSION: Training Leadership a Peer to Peer Forum
 Leveraging Diversity and Inclusion in Innovative Cultures (invitation only)"
 name: Deb Dagit, Candi Castleberry Singleton, Steve Pemberton, Shari Slate and Wendy Lewis

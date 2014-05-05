@@ -759,6 +759,38 @@ section#regbutton .counter .text {
   position: relative;
   z-index: 1;
 }
+/* Star Awards
+================================================== */
+#star_awards {
+  padding-bottom: 2em;
+}
+#star_awards a.button {
+  color: #ffffff;
+  background: #89949b;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  background-clip: padding-box;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -webkit-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  -ms-transition: all 300ms ease-in-out;
+}
+#star_awards a.button:hover {
+  background: #f1192e;
+  color: #ffffff;
+}
+#star_awards h3 {
+  margin-top: 2em;
+}
+#star_awards h2 {
+  margin-bottom: .5em;
+}
 /* Footer 
 ================================================== */
 /* Set footerHeight to TOTAL height of all divs to be sticky */
