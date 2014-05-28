@@ -61,7 +61,7 @@ html {
 }
 .semantic-content .modal-inner {
   position: absolute;
-  top: 50px;
+  top: 100px;
   left: 50%;
   z-index: 20;
   margin-left: -325px;
