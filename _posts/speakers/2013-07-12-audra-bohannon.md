@@ -13,6 +13,7 @@ ww: null
 ---
 
 Audra Bohannon is a Senior Partner in the Diversity, Inclusion and Talent Optimization practice for Korn/Ferry International, based in the Boston office.
+
 Ms. Bohannon joins Korn/Ferry from Global Novations, where she has proved to be a strategic and inspirational leader for the business. “Lead life by design, not by default” is the message that audiences take away from a presentation led by Ms. Bohannon. Business leaders, affinity groups, conference attendees, and classroom participants who have experienced a speech, facilitated session, or workshop from Ms. Bohannon rave about the renewed sense of purpose and challenge she inspires in them.
 
 A respected author, business consultant, leader, coach, and facilitator, Ms. Bohannon’s deep expertise in diversity and inclusion issues and how they impact and propel business performance makes her a sought-after speaker and teacher. She excels at connecting with and inspiring both large groups and individual contributors to move beyond reflection to learning and action.

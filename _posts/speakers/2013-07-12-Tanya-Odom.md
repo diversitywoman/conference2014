@@ -25,5 +25,3 @@ Tanya is passionate about working with youth, and engaging youth in meaningful, 
 Trained as a coach by the Center for Creative Leadership, she is certified in the Hay Group’s Emotional and Social Competency Inventory. Tanya has also been trained in the Difficult Conversations methodology at the Program on Negotiation at Harvard Law School.
  
 Tanya was on the faculty of the Human Resources Management program at Georgetown University, where she taught courses in the area of innovation and creativity. She has also taught at Princeton University, in the Junior Summer Institute, and has been an adjunct professor at Manhattanville College, where she taught graduate courses in the areas of Diversity, Leadership, and Team Development. She has also taught a course at the Center for Conflict Resolution at the University of Capetown in South Africa. 
-
-
