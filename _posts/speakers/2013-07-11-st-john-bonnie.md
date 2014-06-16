@@ -2,7 +2,7 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-name: Simon T. Bailey
+name: "Bonne St. John"
 title: "Author"
 image: "St.John_Bonnie.jpeg"
 published: true
