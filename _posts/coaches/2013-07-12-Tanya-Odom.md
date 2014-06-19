@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-12 08:30"
-categories: speakers
+categories: coach
 name: Tanya Odom
 title: "Consultant"
 image: Odom_Tanya.jpg
