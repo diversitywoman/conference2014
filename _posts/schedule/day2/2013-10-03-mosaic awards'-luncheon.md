@@ -1,6 +1,6 @@
 ---
-date: 2013-10-03 13:00
-hour: 1:00 - 3:00 pm
+date: 2013-10-03 12:30
+hour: 12:30 - 2:30 pm
 title: Mosaic Awards' Luncheon
 name: 
 company:
@@ -13,3 +13,11 @@ The Mosaic Woman Award recognizes diverse and multicultural women for their uniq
 * Trailblazer 
 * Leadership 
 * Pioneer
+
+
+<strong>Invocation:</strong> Dr. Johnnetta Betsch Cole, Director, Smithsonian National Museum of African Art
+<br><br><strong>Mosaic Awards Emcee:</strong> Jackie Glenn, Global Chief Diversity Officer, EMC
+<br><br><strong>Mosaic Woman Trailblazer Award Recipient:</strong> Bonnie St. John, Author & Paralympic Medal Winner
+<br><br><strong>Mosaic Woman Legacy Award Recipient:</strong> Frances Hesselbein former CEO of the Girl Scouts
+<br><br><strong>Mosaic Woman Pioneer Award Recipient:</strong> Judge Glenda Hatchett, Author
+<br><br><strong>Mosaic Woman Leadership Award Recipient:</strong> Dr. Annie McKee, Bestselling Author, Leadership Advisor & Co-Founder, Teleos Leadership Institute

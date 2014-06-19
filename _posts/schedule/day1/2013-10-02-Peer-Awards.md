@@ -1,7 +1,7 @@
 ---
 date: 2013-10-02 16:30
 hour: 4:30 - 6:00 pm
-title: 'ANNUAL DIVERSITY LEADERSHIP “STARS WHO MEAN BUSINESS” PEER AWARDS Celebration & Reception'
+title: 'Annual Diversity Leadership “Stars Who Mean Business” Peer Awards Celebration & Reception'
 child:
 name: Anise D. Wiley-Little and Tena Clark
 company: 

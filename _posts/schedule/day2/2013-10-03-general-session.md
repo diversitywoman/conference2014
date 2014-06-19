@@ -1,7 +1,7 @@
 ---
 date: 2013-10-03 11:15
-hour: 11:15 - 1:00 pm
-title: "GENERAL SESSION: TRANSFORMATIONAL LEADERSHIP - IT’S YOURS FOR THE TAKING! GOING FROM GOOD TO GREAT!"
+hour: 11:15 - 12:30 pm
+title: "General Session: Transformational Leadership - It’s Yours For The Taking! Going From Good To Great!"
 name: Audra Bohannon
 company: Senior Parter, Leadership & Talent Consulting, Korn Ferry International
 categories: day2

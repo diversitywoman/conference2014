@@ -1,7 +1,7 @@
 ---
 date: 2013-10-02 14:00
 hour: 2:00 - 3:30pm
-title: LEADERSHIP COACHING SESSIONS
+title: Leadership Coaching Sessions
 child:
 name: 
 company: 

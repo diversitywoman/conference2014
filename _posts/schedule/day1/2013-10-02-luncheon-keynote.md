@@ -1,7 +1,7 @@
 ---
 date: 2013-10-02 12:30
 hour: 12:45-2:00 pm
-title: "LUNCHEON WITH KEYNOTE - PAY IT FORWARD"
+title: "Luncheon With Keynote - Pay It Forward"
 name: 
 company: 
 categories: day1
