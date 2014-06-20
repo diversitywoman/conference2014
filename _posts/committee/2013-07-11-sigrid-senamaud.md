@@ -3,7 +3,7 @@ layout: speaker
 date: "2013-07-11 08:30"
 categories: committee
 name: Sigrid H. Senamaud
-title: "Founder & President, GlobalCon Group LLC"
+title: "Conference Director - Diversity Woman"
 image: Senamaud_Sigrid.jpg
 published: true
 teaser: With more than 15 years of experience servicing corporations, non-profits and academic institutions, Sigrid has played an integral role ensuring Diversity and Inclusion goals meet businesses' needs on a domestic and global level.
