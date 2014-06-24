@@ -2,7 +2,7 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: coach
-name: Philip Berry
+name: Philip Berry, MBA, MSW, ICF certification
 title: "President, Philip Berry Associates LLC"
 image: Berry_Philip.JPG
 published: true
