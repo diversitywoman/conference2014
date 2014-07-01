@@ -2,7 +2,7 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-name: "Bonne St. John"
+name: "Bonnie St. John"
 title: "Author"
 image: "St.John_Bonnie.jpeg"
 published: true

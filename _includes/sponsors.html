@@ -4,6 +4,17 @@
           <h2>The Sponsors</h2>
           <p>Our proud sponsors and supporters who made this event possible</p>
 
+            {% if site.categories.title %}
+            <div id="title" class="sponsors">
+              <h3>Title Sponsor</h3>
+              {% for post in site.categories.title %}
+                {% if post.logo %}
+                  <a href="{{ post.www }}" target="_blank" class="sponsorlogo"><img src="{{ site.assets.sponsor }}{{ post.logo }}" alt="{{ post.title }}" /></a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+
           {% if site.categories.diamond %}
             <div id="diamond" class="sponsors">
               <h3>Diamond</h3>
