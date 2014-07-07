@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-12 08:30"
 categories: speakers
-name: "Glenda A. Hatchet"
-title: Founder and CEO, Great Day Productions
+title: "Glenda A. Hatchet"
+position: Founder and CEO, Great Day Productions
 image: Hatchett_Judge_Glenda.jpg
 published: true
 teaser: "Hatchett is the Founder and CEO of the newly established production company, Great Day Productions that specializes in television programming."

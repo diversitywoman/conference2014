@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-12 08:30"
 categories: committee
-name: Shelby McKay
-title: "Master Student, Higher Education Administration at The George Washington University"
+title: Shelby McKay
+position: "Master Student, Higher Education Administration at The George Washington University"
 image: McKay_Shelby.jpg
 published: true
 teaser: "She received her bachelor's degree from Elon University in Sport and Event Management. During her undergraduate career, Shelby worked in several roles in event management."

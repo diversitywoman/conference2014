@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-21 08:30"
 categories: speakers
-name: Edie Fraser
-title: CEO, STEMConnector
+title: Edie Fraser
+position: CEO, STEMConnector
 image: Fraser_Edie.jpg
 published: true
 teaser: Edie Fraser is CEO of STEMconnector™  and Senior Consultant to Diversified Search.

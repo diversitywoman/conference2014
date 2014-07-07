@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-08-24 08:31"
 categories: committee
-name: Dr. Suzan Wasik
-title: Coaching Initiative Chairperson
+title: Dr. Suzan Wasik
+position: Coaching Initiative Chairperson
 image: Wasik_Dr-Suzan.jpg
 published: true
 teaser: "Dr. Suzan Zuljani Wasik is an Executive and Life Coach and consultant with over 17 years experience in the field of positive change. Whether working with individuals, groups, corporations, or communities, she helps clients get unstuck in current limiting beliefs, situations, and circumstances by helping them build strategic bridges to change and transformation."

@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-name: Peggy Hazard
-title: Managing Principal, Korn Ferry International
+title: Peggy Hazard
+position: Managing Principal, Korn Ferry International
 image: Hazard_Peggy.jpg
 published: true
 teaser: Peggy Hazard specializes in strategic consulting, executive team facilitation, and coaching to help leaders achieve business results through improved Global Leadership, Cultural Dexterity, and Advancing Women Worldwide.

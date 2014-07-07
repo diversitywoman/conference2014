@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-12 08:30"
 categories: committee
-name: Robby Gregg
-title: "Diversity Thought Leader, Partnership Strategist"
+title: Robby Gregg
+position: "Diversity Thought Leader, Partnership Strategist"
 image: Gregg_Robby.jpg
 published: true
 teaser: "J. Robby Gregg, Jr. is a nationally recognized diversity expert with more than 20 years of experience in designing and executing multi-platform diversity strategies."

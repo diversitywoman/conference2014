@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-name: Dr. Annie McKee
-title: "Founder of Teleos Leadership Institute"
+title: Dr. Annie McKee
+position: "Founder of Teleos Leadership Institute"
 image: McKee_Annie.jpg
 published: true
 teaser: "Dr. Annie McKee is Founder of Teleos Leadership Institute, a global leadership and advisory services firm. She also is a Senior Fellow and the Director of the PennCLO Executive Doctoral program at the University of Pennsylvania."

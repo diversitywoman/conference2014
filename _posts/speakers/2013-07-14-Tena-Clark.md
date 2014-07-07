@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-14 08:30"
 categories: speakers
-name: Tena Clark
-title: Founder, Grammy Award recipient, DMI Music & Entertainment
+title: Tena Clark
+position: Founder, Grammy Award recipient, DMI Music & Entertainment
 image: Clark_Tena.jpg
 published: true
 teaser: Tena Clark's company program's the President's music for Air Force One and produced Aretha Franklin's most recent album.

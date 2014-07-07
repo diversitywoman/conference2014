@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-12 08:30"
 categories: speakers
-name: Anna Zornosa
-title: CEO and Founder, RubyRibbon Inc
+title: Anna Zornosa
+position: CEO and Founder, RubyRibbon Inc
 image: Vornosa_Anna.jpg
 published: true
 teaser: "nna Zornosa’s career has included leadership positions at start-ups as well as large public companies. She founded Ruby Ribbon in September 2011 as an apparel company whose unique products are available only through social commerce."

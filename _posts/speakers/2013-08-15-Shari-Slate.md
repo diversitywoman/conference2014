@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-08-15 08:30"
 categories: speakers
-name: Shari Slate
-title: Chief Inclusion and Collaboration Strategist, Cisco
+title: Shari Slate
+position: Chief Inclusion and Collaboration Strategist, Cisco
 image: Slate_Shari.jpg
 published: false
 teaser: Shari Slate is Chief Inclusion and Collaboration Strategist for Region. She is responsible for making inclusion relevant in the revenue generating arm of the business and leveraging inclusion to create value for Cisco, its partners, and customers.

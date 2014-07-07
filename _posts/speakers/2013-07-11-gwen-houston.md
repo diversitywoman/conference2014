@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-name: Gwen Houston
-title: "General Manager of Global Diversity & Inclusion, Microsoft"
+title: Gwen Houston
+position: "General Manager of Global Diversity & Inclusion, Microsoft"
 image: Houston_Gwen.jpg
 published: true
 teaser: Gwen Houston is General Manager of Global Diversity & Inclusion for Microsoft Corporation, the worldwide leader in software, services, and solutions that help people and businesses realize their full potential.

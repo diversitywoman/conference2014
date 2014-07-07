@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-12 08:30"
 categories: speakers
-name: Wendy Lewis
-title: "Senior Vice President of Diversity & Strategic Alliances, Major League Baseball"
+title: Wendy Lewis
+position: "Senior Vice President of Diversity & Strategic Alliances, Major League Baseball"
 image: Lewis_Wendy.jpg
 published: true
 teaser: "Wendy Lewis implements MLB’s Diversity Economic Impact Engagement initiative (DEIE), which is designed to advance the level of MLB’s current workforce and supplier diversity efforts League-wide."

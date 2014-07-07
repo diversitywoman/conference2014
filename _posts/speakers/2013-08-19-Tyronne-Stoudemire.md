@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-08-19 08:30"
 categories: speakers
-name: Tyronne Stoudemire
-title: Principal Senior Consultant, Mercer
+title: Tyronne Stoudemire
+position: Principal Senior Consultant, Mercer
 image: stoudemire_tyronne.jpg
 published: true
 teaser: "Mr. Stoudemire joined Mercer from Aon Hewitt, where he served as the Global Head of Diversity since 2009. A proven thought leader in the space of diversity and inclusion

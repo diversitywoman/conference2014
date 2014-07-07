@@ -2,8 +2,8 @@
 layout: speaker
 date: 2013-07-18
 categories: speakers
-name:  Deborah Dagit
-title: President, Deb Dagit Diversity
+title:  Deborah Dagit
+position: President, Deb Dagit Diversity
 image: Dagit_Deborah.jpeg
 published: true
 teaser: Deborah Dagit joined Merck as their Chief Diversity Officer in June 2001.  She has had responsibility for global equal opportunity, employee relations, recruiting and staffing and diversity & inclusion and has now transitioned to lead Deb Dagit Diversity, a consulting firm that offers practical just-in-time resources, tools and support for diversity practitioners.

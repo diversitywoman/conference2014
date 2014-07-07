@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-name: Nancy Gidusko
-title: "Director, Community Relations & Minority Business Development, Walt Disney World Resort"
+title: Nancy Gidusko
+position: "Director, Community Relations & Minority Business Development, Walt Disney World Resort"
 image: Gidusko_Nancy.jpg
 published: true
 teaser: "Nancy leads the philanthropic community outreach for the Walt Disney World Resort which includes charitable donations, community programs, employee fundraising campaigns and volunteerism."

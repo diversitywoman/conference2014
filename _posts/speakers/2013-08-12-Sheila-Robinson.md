@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-08-12 08:30"
 categories: speakers
-name: Sheila Robinson
-title: Diversity Women's Business Leadership (DWBL) Conference Founder, Publisher and CEO of Diversity Woman Magazine
+title: Sheila Robinson
+position: Diversity Women's Business Leadership (DWBL) Conference Founder, Publisher and CEO of Diversity Woman Magazine
 image: Robinson_Sheila.jpg
 published: true
 teaser: "Sheila A. Robinson, is the Founder and Publisher of Career Network magazine, a regional publication that provides ideas, solutions and resources to business professionals at all levels."

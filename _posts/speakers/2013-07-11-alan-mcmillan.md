@@ -2,8 +2,9 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-name: "Alan J. McMillan"
-title: "Founder, LearnEarnRetire"
+title: "Alan J. McMillan"
+title: "Alan J. McMillan"
+position: "Founder, LearnEarnRetire"
 image: "McMillan_Alan.jpg"
 published: true
 teaser: "Alan J. McMillan is the Founder of LearnEarnRetire, a firm that delivers critical development information for 18-24 year olds, usually in college"

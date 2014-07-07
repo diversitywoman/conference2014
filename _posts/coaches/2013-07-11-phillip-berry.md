@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: coach
-name: Philip Berry, MBA, MSW, ICF certification
-title: "President, Philip Berry Associates LLC"
+title: Philip Berry, MBA, MSW, ICF certification
+position: "President, Philip Berry Associates LLC"
 image: Berry_Philip.JPG
 published: true
 teaser: "Philip A. Berry is President of Philip Berry Associates LLC, a management consulting firm which focuses on executive coaching, personal branding, global talent development, leadership training, global diversity, cross cultural competency, innovation and organizational effectiveness."

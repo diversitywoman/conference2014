@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-12 08:30"
 categories: committee
-name: Audra Bohannon
-title: "Senior Partner, Korn/Ferry International"
+title: Audra Bohannon
+position: "Senior Partner, Korn/Ferry International"
 image: Bohannon_Audra.jpg
 published: true
 teaser: "Audra Bohannon is a Senior Partner in the Diversity, Inclusion and Talent Optimization practice for Korn/Ferry International, based in the Boston office. “Lead life by design, not by default” is the message that audiences take away from a presentation led by Ms. Bohannon."

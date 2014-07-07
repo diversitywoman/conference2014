@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-name: Dr. Robin Smith
-title: "National television personality, best selling author, ordained minister, keynote speaker, and licensed psychologist"
+title: Dr. Robin Smith
+position: "National television personality, best selling author, ordained minister, keynote speaker, and licensed psychologist"
 image: Smith_Robin.jpg
 published: true
 teaser: "Dr. Robin L. Smith is a national television personality, best selling author, ordained minister, keynote speaker, and licensed psychologist"

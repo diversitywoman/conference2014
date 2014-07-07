@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-12 08:30"
 categories: speakers
-name: AJ Johnson
-title: "Actress and Healthy Lifestyle Coach"
+title: AJ Johnson
+position: "Actress and Healthy Lifestyle Coach"
 image: Johnson_AJ.jpg
 published: true
 teaser: 'AJ has created a successful online healthy living movement at www.theajzone.com, and has designed wellness platforms for other sites such as Oprah.com,  Dailybeast.com and Globalgrind.com'

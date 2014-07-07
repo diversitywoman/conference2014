@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-08-15 08:30"
 categories: coach
-name: Marsha Haygood
-title: President of StepWise Associates
+title: Marsha Haygood
+position: President of StepWise Associates
 image: Haygood_Marsha.jpg
 published: true
 teaser: Author, Talent Development Expert and Empowerment Coach are a few of the many hats that President of StepWise Associates, Marsha Haygood, wears.

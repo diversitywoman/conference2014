@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-name: Fields Jackson
-title: "CEO, Racing Toward Diversity Magazine"
+title: Fields Jackson
+position: "CEO, Racing Toward Diversity Magazine"
 image: Jackson_Fields.jpg
 published: true
 teaser: Fields Jackson, Jr. is currently the Founder and CEO of Racing Toward Diversity Magazine, Cary, NC

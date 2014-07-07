@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-07-12 08:30"
 categories: coach
-name: Tanya Odom
-title: "Consultant"
+title: Tanya Odom
+position: "Consultant"
 image: Odom_Tanya.jpg
 published: true
 teaser: "Tanya M. Odom, is a highly regarded consultant, coach, facilitator, teacher, writer, and thought leader."

@@ -2,8 +2,8 @@
 layout: speaker
 date: "2013-08-15 08:30"
 categories: speakers
-name: Susan Stith
-title: Senior Director of Diversity, Inclusion and Corporate Giving, Express Scripts
+title: Susan Stith
+position: Senior Director of Diversity, Inclusion and Corporate Giving, Express Scripts
 image: Stith_Susan.jpg
 published: true
 teaser: Susan A. Stith is the Senior Director of Diversity, Inclusion and Corporate Giving at Express Scripts.
