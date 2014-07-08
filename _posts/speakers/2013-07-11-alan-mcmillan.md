@@ -3,7 +3,6 @@ layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
 title: "Alan J. McMillan"
-title: "Alan J. McMillan"
 position: "Founder, LearnEarnRetire"
 image: "McMillan_Alan.jpg"
 published: true
