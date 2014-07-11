@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: committee
-title: Sigrid H. Senamaud
+title: Senamaud
+name: Sigrid H. Senamaud
 position: "Conference Director - Diversity Woman, President / GlobalCom Group LLC"
 image: Senamaud_Sigrid.jpg
 published: true

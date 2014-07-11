@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-14 08:30"
 categories: speakers
-title: Tena Clark
+title: Clark
+name: Tena Clark
 position: Founder, Grammy Award recipient, DMI Music & Entertainment
 image: Clark_Tena.jpg
 published: true

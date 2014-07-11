@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: speakers\
+categories: student_coach
 title: McMillan
 name: "Alan J. McMillan"
 position: "Founder, LearnEarnRetire"

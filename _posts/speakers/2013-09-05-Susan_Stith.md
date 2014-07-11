@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-08-15 08:30"
 categories: speakers
-title: Susan Stith
+title: Stith
+name: Susan Stith
 position: Senior Director of Diversity, Inclusion and Corporate Giving, Express Scripts
 image: Stith_Susan.jpg
 published: true

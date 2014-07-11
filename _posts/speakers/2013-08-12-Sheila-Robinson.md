@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-08-12 08:30"
 categories: speakers
-title: Sheila Robinson
+title: Robinson
+name: Sheila Robinson
 position: Diversity Women's Business Leadership (DWBL) Conference Founder, Publisher and CEO of Diversity Woman Magazine
 image: Robinson_Sheila.jpg
 published: true

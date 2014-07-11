@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-title: Nancy Gidusko
+title: Gidusko
+name: Nancy Gidusko
 position: "Director, Community Relations & Minority Business Development, Walt Disney World Resort"
 image: Gidusko_Nancy.jpg
 published: true

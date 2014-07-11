@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-title: Dr. Annie McKee
+title: McKee
+name: Dr. Annie McKee
 position: "Founder of Teleos Leadership Institute"
 image: McKee_Annie.jpg
 published: true

@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-title: Melissa B. Donaldson
+title: Donaldson
+name: Melissa B. Donaldson
 position: "Director, Diversity Networks & Communications, Walgreen Co."
 image: Donaldson_Melissa.jpg
 published: true

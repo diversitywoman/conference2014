@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-08-24 08:31"
 categories: committee
-title: Dr. Suzan Wasik
+title: Wasik
+name: Dr. Suzan Wasik
 position: Coaching Initiative Chairperson
 image: Wasik_Dr-Suzan.jpg
 published: true

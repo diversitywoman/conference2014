@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-12 08:30"
 categories: speakers
-title: Anna Zornosa
+title: Zornosa
+name: Anna Zornosa
 position: CEO and Founder, RubyRibbon Inc
 image: Vornosa_Anna.jpg
 published: true

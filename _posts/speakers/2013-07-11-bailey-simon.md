@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-title: Simon T. Bailey
+title: Bailey
+name: Simon T. Bailey
 position: "Founder, Brilliance Institute"
 image: Bailey_Simon.jpg
 published: true

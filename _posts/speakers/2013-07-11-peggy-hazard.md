@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-title: Peggy Hazard
+title: Hazard
+name: Peggy Hazard
 position: Managing Principal, Korn Ferry International
 image: Hazard_Peggy.jpg
 published: true

@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-23 08:30"
 categories: speakers
-title: Jackie Glenn
+title: Glenn
+name: Jackie Glenn
 position: Global Chief Diversity Officer, EMC
 image: Glenn_Jackie.jpg
 published: true

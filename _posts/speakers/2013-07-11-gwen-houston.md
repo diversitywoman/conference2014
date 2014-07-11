@@ -1,8 +1,9 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: speakers
-title: Gwen Houston
+categories: 
+title: Houston
+name: Gwen Houston
 position: "General Manager of Global Diversity & Inclusion, Microsoft"
 image: Houston_Gwen.jpg
 published: true

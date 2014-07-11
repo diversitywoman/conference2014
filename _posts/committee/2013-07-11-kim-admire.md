@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: committee
-title: Kim Admire
+title: Admire
+name: Kim Admire
 position: "President, Diversity & Inclusion, Lockheed Martin Corporation & Conference Chair"
 image: Admire_Kim.jpg
 published: true

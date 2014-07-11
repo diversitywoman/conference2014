@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-08-15 08:30"
 categories: coach
-title: Marsha Haygood
+title: Haygood
+name: Marsha Haygood
 position: President of StepWise Associates
 image: Haygood_Marsha.jpg
 published: true

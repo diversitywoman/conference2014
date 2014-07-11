@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-12 08:30"
 categories: committee
-title: Robby Gregg
+title: Gregg
+name: Robby Gregg
 position: "Diversity Thought Leader, Partnership Strategist"
 image: Gregg_Robby.jpg
 published: true

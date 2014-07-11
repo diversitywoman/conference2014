@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-13 08:30"
 categories: speakers
-title: Candi Castleberry-Singleton
+title: Castleberry-Singleton
+name: Candi Castleberry-Singleton
 position: Chief Diversity Officer, University of Pittsburgh Medical Center
 image: Castleberry_Singleton_Candi.jpg
 published: true

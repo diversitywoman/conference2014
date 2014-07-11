@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-title: "Elizabeth A. Morrison"
+title: Morrison
+name: "Elizabeth A. Morrison"
 position: Global Director, Diversity & Inclusion, Campbell Soup Company
 image: Morrison_Elizabeth.jpg
 published: true

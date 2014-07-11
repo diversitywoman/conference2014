@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-12 08:30"
 categories: committee
-title: Karen Harper
+title: Harper
+name: Karen Harper
 position: "Executive Coordinator of the STEM Diversity Campaign initiative, Building Engineering and Science Talent (BEST)"
 image: Harper_Karen.jpg
 published: true

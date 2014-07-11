@@ -1,5 +1,5 @@
 ---
-date: 2013-10-03 09:30
+date: 2013-10-03 09:45
 hour: 9:45 - 11:00 am
 title: "2014 Women In The C-suite: Stem And The Opportunity For Women"
 name: Edie Fraser and Marjorie Clifton
@@ -12,5 +12,8 @@ The future is NOW. Empowering girls and young women early on is key to positioni
 
 Join a panel of experts for an in-depth look at techniques and strategies that we can employ with our young girls and women to prepare them for success in the corner office.
 
-Remarks: _Edie Fraser_, CEO, STEM Connector 
-Moderator: _Marjorie Clifton_, Author
+__Moderator:__ Dr. Laura Stubbs, Director, Science & Technology Initiatives, U.S. Department of Defense <br /><br />
+__Panelists:__ <br />
+\- __Edie Fraser__, CEO, STEM Connector  <br />
+\- __Neddy Perez__, ‎Vice President Global Diversity & Inclusion, Talent Management, Ingersoll Rand <br />
+\- __Susan Stith__, Senior Director, Diversity and Inclusion, Human Resources, Express Scripts  <br />

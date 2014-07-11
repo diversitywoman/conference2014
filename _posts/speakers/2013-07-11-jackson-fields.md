@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-title: Fields Jackson
+title: Jackson
+name: Fields Jackson
 position: "CEO, Racing Toward Diversity Magazine"
 image: Jackson_Fields.jpg
 published: true

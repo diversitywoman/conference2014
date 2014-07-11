@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-08-19 08:30"
 categories: speakers
-title: Tyronne Stoudemire
+title: Stoudemire
+name: Tyronne Stoudemire
 position: Principal Senior Consultant, Mercer
 image: stoudemire_tyronne.jpg
 published: true

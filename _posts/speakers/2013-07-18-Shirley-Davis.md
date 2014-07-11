@@ -2,7 +2,8 @@
 layout: speaker
 date: 2013-07-18
 categories: speakers
-title:  Dr. Shirley Davis
+title: Davis
+name:  Dr. Shirley Davis
 position: Chief Global Diversity & Inclusion Officer, SHRM
 image: Davis_Shirley.jpg
 published: true

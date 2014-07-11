@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-title: Thomas Murray
+title: Murray
+name: Thomas Murray
 position: "SVP, Chief Talent Officer"
 image: Murray_Thomas.JPG
 published: true

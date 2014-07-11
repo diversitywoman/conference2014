@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-11 08:30"
 categories: speakers
-title: "Dr. Gloria Bozeman Herndon"
+title: Herndon
+name: "Dr. Gloria Bozeman Herndon"
 position: "Founder, President & CEO of GB Group Global"
 image: "Herndon_Dr_Gloria.jpg"
 published: true

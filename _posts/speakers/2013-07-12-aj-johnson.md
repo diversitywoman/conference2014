@@ -2,7 +2,8 @@
 layout: speaker
 date: "2013-07-12 08:30"
 categories: speakers
-title: AJ Johnson
+title: Johnson
+name: AJ Johnson
 position: "Actress and Healthy Lifestyle Coach"
 image: Johnson_AJ.jpg
 published: true
