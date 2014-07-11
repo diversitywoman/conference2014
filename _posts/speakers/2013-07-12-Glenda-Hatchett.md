@@ -2,7 +2,7 @@
 layout: speaker
 date: "2013-07-12 08:30"
 categories: speakers
-title: "Glenda A. Hatchet"
+title: "Glenda A. Hatchett"
 position: Founder and CEO, Great Day Productions
 image: Hatchett_Judge_Glenda.jpg
 published: true
