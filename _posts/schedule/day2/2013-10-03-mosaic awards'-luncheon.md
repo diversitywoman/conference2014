@@ -16,8 +16,9 @@ The Mosaic Woman Award recognizes diverse and multicultural women for their uniq
 
 
 <strong>Invocation:</strong> Dr. Johnnetta Betsch Cole, Director, Smithsonian National Museum of African Art
-<br><br><strong>Mosaic Awards Emcee:</strong> Jackie Glenn, Global Chief Diversity Officer, EMC
+<br><br><strong>Mosaic Awards Emcee:</strong> Jackie Glenn, Vice President & Global Chief Diversity Officer, EMC
 <br><br><strong>Mosaic Woman Trailblazer Award Recipient:</strong> Bonnie St. John, Author & Paralympic Medal Winner
 <br><br><strong>Mosaic Woman Legacy Award Recipient:</strong> Frances Hesselbein former CEO of the Girl Scouts
-<br><br><strong>Mosaic Woman Pioneer Award Recipient:</strong> Judge Glenda Hatchett, Author
+<br><br><strong>Mosaic Woman Pioneer Award Recipient:</strong> Judge Glenda Hatchett, Founder & CEO, Great Day Productions
 <br><br><strong>Mosaic Woman Leadership Award Recipient:</strong> Dr. Annie McKee, Bestselling Author, Leadership Advisor & Co-Founder, Teleos Leadership Institute
+<br><br><strong>Special Tribute:</strong> Dr. Gloria Bozeman Herndon, Founder, President & CEO, GB Group Global & Niece of Dr. Maya Angelou

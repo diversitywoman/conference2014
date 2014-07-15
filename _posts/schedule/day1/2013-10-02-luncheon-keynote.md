@@ -16,3 +16,14 @@ satisfaction, it also benefits workplace outcomes. Examine
 techniques how to channel it in a way that impacts ourselves and 
 the world we live and work in. What is the best way for YOU to pay it 
 forward? Sponsored by American Heart Association 
+
+<strong>Opening:</strong> Sheila Robinson, Founder, Diversity Women's Business
+Leadership (DWBL) Conference & Publisher and CEO of Diversity
+ Woman Magazine
+    
+<strong>Invocation:</strong> Melissa Donaldson, Director, Diversity Networks &
+Communications, Walgreens
+
+<strong>LUNCHEON KEYNOTE </strong><br />
+Dr. Robin L. Smith, National Television Personality, Best Selling 
+Author, ordained Minister & licensed Psychologist 

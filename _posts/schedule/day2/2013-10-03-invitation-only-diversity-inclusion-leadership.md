@@ -8,7 +8,11 @@ company:
 categories: day2
 expand: y
 ---
- This session will continue Diversity Woman’s Leadership initiative on “The Next iteration of Diversity & Inclusion”. Business executives will hold a roundtable discussion on the impact D&I has in today’s global marketplace, and identify tomorrow’s key drivers to position D&I front and center. 
+This session will continue Diversity Woman’s Leadership initiative
+on “The Next iteration of Diversity & Inclusion”. Business executives
+will hold a roundtable discussion on the impact D&I has in today’s
+global marketplace, and identify tomorrow’s key drivers to position
+D&I front and center. 
 
 __Remarks:__ _Theresa Thompson_, Director, Global Diversity & Inclusion, LOWES
 <br /><br />
