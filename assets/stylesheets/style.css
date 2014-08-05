@@ -217,7 +217,6 @@ p {
   font-weight: 300;
   line-height: 180%;
 }
-/* Link Styles */
 /* Other Styles */
 .heart {
   color: #f43059;
@@ -316,6 +315,7 @@ header#site_header img {
   margin-top: 500px;
   text-align: center;
   background: #f2f2f2;
+  /* Specific Moasic Style */
 }
 #speakers .color1 {
   display: block;
@@ -440,6 +440,24 @@ header#site_header img {
   font-size: 80%;
   text-transform: uppercase;
 }
+#speakers .speaker.mosaic {
+  margin-top: 80px;
+  height: 390px;
+}
+#speakers .speaker.mosaic .front,
+#speakers .speaker.mosaic .back {
+  padding-top: 80px;
+}
+#speakers h3.mosaic {
+  color: #333333;
+  position: relative;
+  display: inline-block;
+  width: 180px;
+  height: 50px;
+  background: #f2f2f2;
+  font-size: 95%;
+  font-weight: 500;
+}
 /* Speaker Page
 ================================================== */
 #profile .imagecontainer {
@@ -493,6 +511,10 @@ header#site_header img {
   text-align: left;
   margin-left: auto;
   margin-right: auto;
+}
+#profile h3.mosaic {
+  font-size: 105%;
+  font-weight: 500;
 }
 /* Schedule
 ================================================== */
