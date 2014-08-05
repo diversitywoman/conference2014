@@ -5,7 +5,7 @@ categories: mosaic_honor
 title: "St. John"
 name: "Bonnie St. John"
 honor: "Mosaic Woman Pioneer"
-position: "Author"
+position: "Author and Paralympic Medalist"
 image: "St.John_Bonnie.jpeg"
 published: true
 teaser: "Bonnie St. John is the author of six books, including her current best seller, How Great Women Lead, which she co-authored with her teenage daughter, Darcy."

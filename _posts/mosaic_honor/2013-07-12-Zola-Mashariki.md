@@ -5,10 +5,10 @@ categories: mosaic_honor
 title: Mashariki
 name: "Zola Mashariki"
 honor: "Mosaic Woman Trailblazer"
-position: 
+position: "SVP, Fox Searchlight Films"
 image: Mashariki_Zola.png
 published: true
-teaser: 
+teaser: "SVP, Fox Searchlight Films"
 in: null
 tw: null
 ww: null

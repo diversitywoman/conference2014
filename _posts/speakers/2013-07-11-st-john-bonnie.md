@@ -4,7 +4,7 @@ date: "2013-07-11 08:30"
 categories: speakers
 title: "St. John"
 name: "Bonnie St. John"
-position: "Author"
+position: "Author and Paralympic Medalist"
 image: "St.John_Bonnie.jpeg"
 published: true
 teaser: "Bonnie St. John is the author of six books, including her current best seller, How Great Women Lead, which she co-authored with her teenage daughter, Darcy."

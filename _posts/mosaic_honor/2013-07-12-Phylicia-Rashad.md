@@ -5,10 +5,10 @@ categories: mosaic_honor
 title: Rashad
 name: "Phylicia Rashad"
 honor: "Mosaic Woman Legend"
-position: 
+position: "Tony Award Winning Actress, Singer, Director and Producer"
 image: Rashad_Phylicia.jpg
 published: true
-teaser: 
+teaser: "Tony Award Winning Actress, Singer, Director and Producer"
 in: null
 tw: null
 ww: null

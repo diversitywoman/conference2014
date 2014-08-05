@@ -441,7 +441,6 @@ header#site_header img {
   text-transform: uppercase;
 }
 #speakers .speaker.mosaic {
-  margin-top: 80px;
   height: 390px;
 }
 #speakers .speaker.mosaic .front,

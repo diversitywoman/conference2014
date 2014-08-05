@@ -5,7 +5,8 @@ categories: mosaic_honor
 title: Hatchett
 name: "Glenda A. Hatchett"
 honor: "Mosaic Woman Lifetime Achievement"
-position: Founder and CEO, Great Day Productions
+position: "Television Personality, Legal Analyst
+        and Founder of Great Day Productions"
 image: Hatchett_Judge_Glenda.jpg
 published: true
 teaser: "Hatchett is the Founder and CEO of the newly established production company, Great Day Productions that specializes in television programming."

@@ -10,9 +10,10 @@
         <div class="columns large-12">
           <h1 class="color1">The Future is Now for Women:<br /><span class="small">Transformational Leadership, STEM*, and Inclusion as a Cultural Competence</span><span class="smallest">*(Science, Technology, Engineering, Math)</span></h1>
           <br /><br /><br />
-
+        </div>
           {% if site.categories.mosaic_honor %}
           <br /><br /><br />
+          <div class="columns large-8 large-offset-2">
           <h2>Mosaic Woman Award Honorees</h2>
           <br />
             {% for post in sorted_mosaic_honor %}              
@@ -30,11 +31,12 @@
                   <div class="linkgroup">
                     <a href="{{ post.url }}" target="_self" title="Read More"><i class="icon-plus"></i></a>
                   </div>
-                </div>
+                </div>  
               </div>
             {% endfor %}
+            </div>
           {% endif %}
-
+        <div class="columns large-12">
           <br /><br /><br />
           <h2>The Speakers</h2>
           <p>Authors, Talent and Diversity Thought Leaders</p>
