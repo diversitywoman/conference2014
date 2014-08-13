@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: speakers
+categories: committee
 title: Morrison
 name: "Elizabeth A. Morrison"
 position: Global Director, Diversity & Inclusion, Campbell Soup Company

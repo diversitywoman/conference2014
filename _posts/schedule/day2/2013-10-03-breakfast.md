@@ -1,6 +1,6 @@
 ---
-date: 2013-10-03 08:00
-hour: 8:00 - 8:30 am
+date: 2013-10-03 07:30
+hour: 7:30 - 8:00 am
 title: Continental Breakfast
 name: 
 company:

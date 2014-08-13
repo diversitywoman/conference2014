@@ -1,7 +1,7 @@
 ---
 date: 2013-10-02 12:30
 hour: 12:45-2:00 pm
-title: "Luncheon With Keynote - Pay It Forward"
+title: "Luncheon With Keynote"
 name: 
 company: 
 categories: day1
@@ -26,4 +26,5 @@ Communications, Walgreens
 
 <strong>LUNCHEON KEYNOTE </strong><br />
 Dr. Robin L. Smith, National Television Personality, Best Selling 
-Author, ordained Minister & licensed Psychologist 
+Author, ordained Minister & licensed Psychologist
+by: American Heart Association
