@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: 2013-07-18
-categories: speakers
+categories: coach
 title: Davis
 name:  Dr. Shirley Davis
 position: Chief Global Diversity & Inclusion Officer, SHRM
