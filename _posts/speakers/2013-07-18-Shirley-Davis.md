@@ -4,8 +4,8 @@ date: 2013-07-18
 categories: speakers
 title: Davis
 name:  Dr. Shirley Davis
-position: Chief Global Diversity & Inclusion Officer, SHRM
-image: Davis_Shirley.jpg
+position: "President & CEO, SDS Global Enterprises, former VP of Global Diversity & Inclusion, SHRM"
+image: Sheppard_Dr_Shirley_Davis.jpg
 published: true
 teaser: Dr. Shirley Davis is the "thought leader" on global workplace diversity issues and has successfully positioned SHRM as the leader in the diversity and inclusion field since joining SHRM in 2006.
 in:
