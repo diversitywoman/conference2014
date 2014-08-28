@@ -1,6 +1,6 @@
 ---
 date: 2013-10-03 08:30
-hour: 8:30 - 9:30 am
+hour: 8:30 - 9:15 am
 title: "Morning Keynote: Where Insights Meets Influence - How Great Women Lead"
 name: Bonnie St. John
 company: Author and Paralympic Medal Winner

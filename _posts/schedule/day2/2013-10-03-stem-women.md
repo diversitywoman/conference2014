@@ -1,6 +1,6 @@
 ---
-date: 2013-10-03 09:45
-hour: 9:45 - 11:00 am
+date: 2013-10-03 09:30
+hour: 9:30 - 10:45 am
 title: "Women In STEM And The Opportunity For Women"
 name: Edie Fraser and Marjorie Clifton
 company:

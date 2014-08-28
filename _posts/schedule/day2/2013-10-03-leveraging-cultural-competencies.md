@@ -1,6 +1,6 @@
 ---
-date: 2013-10-03 09:45
-hour: 9:45 - 11:00 am
+date: 2013-10-03 09:30
+hour: 9:30 - 10:45 am
 title: "Leveraging Cultural Competencies to Drive Leadership Results"
 name: Gwen Houston and Peggy Hazard
 company:

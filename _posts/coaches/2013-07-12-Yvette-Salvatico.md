@@ -4,7 +4,7 @@ date: "2013-07-12 08:30"
 categories: coach
 title: Salvatico
 name: Yvette Salvatico
-position: Principle, Kedge
+position: Principal, Kedge
 image: Salvatico_Yvette.jpg
 published: true
 teaser: "Yvette Montero Salvatico is a principal at Kedge, a foresight, innovation, creativity, and strategic design consultancy."

@@ -1,6 +1,6 @@
 ---
-date: 2013-10-03 9:30
-hour: 9:30 - 9:45 am
+date: 2013-10-03 9:15
+hour: 9:15 - 9:30 am
 title: Transition to Break Out Sessions
 name: 
 company:
