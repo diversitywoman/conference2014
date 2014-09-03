@@ -33,4 +33,4 @@ Luncheon Keynote:
 
 <br><br><strong>Mosaic Woman Legend Award Recipient:</strong> Phylicia Rashad,Tony Award Winning Actress, Singer, Director and Producer 
 
-<br><br><strong>Special Tribute:</strong> Dr. Gloria Bozeman Herndon, Founder, President & CEO, GB Group Global & Niece of Dr. Maya Angelou
+<br><br><strong>Special Tribute:</strong> Dr. Gloria Bozeman Herndon, Founder, President & CEO, GB Group Global & Cousin of Dr. Maya Angelou
