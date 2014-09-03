@@ -7,7 +7,7 @@ name: Nereida Perez
 position: Vice President and Chief Diversity Officer at Ingersoll Rand
 image: Neddy_Perez.jpg
 published: true
-teaser: Nereida (Neddy) Perez is an internationally known Human Resources and Diversity practitioner with more than 20 years of experience working with Fortune 500 global corporations in developing and diversity & talent development programs as well as corporate social responsibility and employee relations initiatives.
+teaser: Nereida (Neddy) Perez is an internationally known HR and Diversity practitioner with over 20 years of experience working with Fortune 500  corporations developing diversity & talent development programs as well as corporate social responsibility and employee relations initiatives.
 in: null
 tw: null
 ww: null
