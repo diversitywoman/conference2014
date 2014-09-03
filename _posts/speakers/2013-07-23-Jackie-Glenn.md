@@ -4,7 +4,7 @@ date: "2013-07-23 08:30"
 categories: speakers
 title: Glenn
 name: Jackie Glenn
-position: Global Chief Diversity Officer, EMC
+position: VP, Global Chief Diversity Officer, EMC
 image: Glenn_Jackie.jpg
 published: true
 teaser: "Jackie Glenn is a seasoned executive in Strategic Planning, Human Resources, Talent Development, and Diversity and Inclusion.  She is currently the VP, Global Chief Diversity Officer for EMC Corporation."
