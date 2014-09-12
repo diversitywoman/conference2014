@@ -9,8 +9,13 @@ categories: day2
 expand: y 
 ---
 The Mosaic Woman Award recognizes diverse and multicultural women for their unique vision and leadership, as well as their cultural and global influence. The Mosaic Woman Awards are presented in the following categories:
+ 
+ - Legend 
+ - Lifetime Achievement 
+ - Trailblazer 
+ - Leadership 
+ - Pioneer
 
- * Legend | Lifetime Achievement | Trailblazer | Leadership | Pioneer
 
 <strong>Invocation:</strong> Gloria Santona, Executive Vice President, General Counsel & Secretary, McDonald’s  Corporatiuon
 
