@@ -4,7 +4,7 @@ date: "2013-07-11 08:30"
 categories: speakers
 title: Murray
 name: Thomas Murray
-position: "SVP, Chief Talent Officer, EMC"
+position: "Senior Vice President, Chief Talent Officer, EMC"
 image: Murray_Thomas.JPG
 published: true
 teaser: 'Tom is dedicated to defining EMC as “a people company in the technology business.”'

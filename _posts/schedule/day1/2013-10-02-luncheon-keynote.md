@@ -4,6 +4,7 @@ hour: 12:45-2:00 pm
 title: "Luncheon With Keynote"
 name: 
 company: 
+location: Salon 4,5,6
 categories: day1
 expand: y
 ---
@@ -28,3 +29,6 @@ Communications, Walgreens
 Dr. Robin L. Smith, National Television Personality, Best Selling 
 Author, ordained Minister & licensed Psychologist
 by: American Heart Association
+<br /><br />
+<strong>Introduction by:</strong> Crystal G. King, Director of Multicultural Markets, American Heart Association
+

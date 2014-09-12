@@ -6,6 +6,7 @@ child:
 name: 
 company: 
 categories: day1
+location: White Hall & Salon 8
 expand: y
 class: trig-coaching
 ---

@@ -5,6 +5,7 @@ title: "Diversity & Inclusion Leadership Session: Training Leadership a Peer to 
 Leveraging Diversity and Inclusion in Innovative Cultures (invitation only)"
 name: Deb Dagit, Candi Castleberry Singleton, Steve Pemberton, Shari Slate and Wendy Lewis
 company:
+location: "St. Augustine A & B"
 categories: day2
 expand: y
 ---
@@ -14,7 +15,7 @@ will hold a roundtable discussion on the impact D&I has in today’s
 global marketplace, and identify tomorrow’s key drivers to position
 D&I front and center. 
 
-__Remarks:__ _Theresa Thompson_, Director, Global Diversity & Inclusion, LOWES
+__Remarks:__ _Theresa Thompson_, Director, Global Diversity & Inclusion,  Lowe’s Companies, Inc.
 <br /><br />
 __Moderator:__ _Candi Castleberry Singleton_, Chief Diversity Officer, University of Pittsburgh Medical Center  <br /><br />
 __Panelists:__ <br />

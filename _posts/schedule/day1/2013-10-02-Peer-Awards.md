@@ -5,6 +5,7 @@ title: 'Annual Diversity Leadership “Stars Who Mean Business” Peer Awards Ce
 child:
 name: Anise D. Wiley-Little and Tena Clark
 company: 
+location: Salon 4,5, & 6
 categories: day1
 expand: y
 ---

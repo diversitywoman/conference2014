@@ -4,6 +4,7 @@ hour: 9:30 - 10:45 am
 title: "Leveraging Cultural Competencies to Drive Leadership Results"
 name: Gwen Houston and Peggy Hazard
 company:
+location: "St. Augustine C & D"
 categories: day2
 expand: y
 ---

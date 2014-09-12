@@ -613,6 +613,13 @@ header#site_header img {
   padding-top: 20px;
   color: #89949b;
 }
+#schedule ul.planner li .talk span.expanded ul li {
+  padding: 10px 0px 10px 0px;
+  display: block;
+  position: relative;
+  border: none;
+  list-style: disc outside none;
+}
 #schedule ul.planner li .talk span.eventbrite-sub {
   position: absolute;
   top: 0;
