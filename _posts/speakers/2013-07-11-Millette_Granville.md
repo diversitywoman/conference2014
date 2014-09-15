@@ -4,7 +4,7 @@ date: "2013-07-11 08:30"
 categories: speakers
 title: Granville
 name: Millette Granville
-position: "Director of Diversity & Inclusion, Delhaize America"
+position: "Millette Granville, Director, Diversity & Inclusion, Delhaize America"
 image: Millette_Granville.jpg
 published: true
 teaser: "Millette Granville is the Director of Diversity and Inclusion for Delhaize America."
