@@ -16,9 +16,6 @@ The Mosaic Woman Award recognizes diverse and multicultural women for their uniq
  - Leadership 
  - Pioneer
 
-
-<strong>Invocation:</strong> Gloria Santona, Executive Vice President, General Counsel & Secretary, McDonald’s  Corporatiuon
-
 _Nika Williams_, Actress, Comedian & Producer 
 
 _Sheila Robinson_, Founder, Diversity Women's Business

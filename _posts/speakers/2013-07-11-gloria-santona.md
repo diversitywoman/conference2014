@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: speakers
+categories: blank
 title: Santona
 name: Gloria Santona
 position: "Executive Vice President, General Counsel and Secretary, McDonald’s Corporation"
