@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: speaker
+categories: speakers
 title: Harris
 name: Patricia Harris
 position: "Global Chief Diversity Officer & VP, Global Community Engagement"
