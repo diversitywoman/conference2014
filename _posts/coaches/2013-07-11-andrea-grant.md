@@ -1,10 +1,10 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: speakers
+categories: coach
 title: Wright
 name: Andrea Grant Wright
-position: "Consultant"
+position: "Vice President, Lee Hecht Harrison"
 image: Wright_Andrea_Grant.jpg
 published: true
 teaser: "Andrea consults with large and mid-size national, multi-national, and global organizations, across all industries, on complex business issues impacting workforce requirements."
