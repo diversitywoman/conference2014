@@ -12,9 +12,11 @@ The future is NOW. Empowering girls and young women early on is key to positioni
 
 Join a panel of experts for an in-depth look at techniques and strategies that we can employ with our young girls and women to prepare them for success in the corner office.
 
-__Moderator:__ Dr. Laura Stubbs, Director, Science & Technology Initiatives, U.S. Department of Defense
+__Moderator:__ Charmane S. Johnson, Director, DoD Policy for Affirmative Employment Programs, U.S. Department of Defense 
  <br /><br />
 __Panelists:__ <br />
 \- __Edie Fraser__, CEO, STEM Connector  <br />
 \- __Neddy Perez__, ‎Vice President Global Diversity & Inclusion, Talent Management, Ingersoll Rand <br />
+\- __Meredith M. Crosby__, Director, Strategic Initiatives, 3MGives  <br />
+\- __Aparna Khurjekar__, Vice President, Verizon Wireless   <br />
 \- __Susan Stith__, Senior Director, Diversity and Inclusion, Human Resources, Express Scripts  <br />

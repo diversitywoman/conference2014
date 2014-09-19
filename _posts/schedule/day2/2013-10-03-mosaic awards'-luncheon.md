@@ -30,9 +30,13 @@ Diversity Woman Magazine
 
 <strong>Mosaic Woman Pioneer Award Recipient:</strong> Bonnie St. John, Author & Paralympic Medal Winner
 
+_Presented by:_ Patricia Harris, Global Chief Diversity Officer, McDonald's Corporation
+
 <strong>Mosaic Woman Lifetime Achievement Award Recipient:</strong> Judge Glenda Hatchett, Founder & CEO, Great Day Productions
 
-<strong>Mosaic Woman Trailblazer Award Recipient:</strong> Zola Mash Araki, Senior Vice President, Fox Searchlight Pictures
+<strong>Mosaic Woman Trailblazer Award Recipient:</strong> Zola Masharaki, Senior Vice President, Fox Searchlight Pictures
+
+_Presented by:_ Janice Little, Senior Director of Diversity & Inclusion,McKesson Corporation
 
 <strong>Mosaic Woman Leadership Award Recipient:</strong> Dr. Annie McKee, Bestselling Author, Leadership Advisor & Co-Founder, Teleos Leadership Institute
 
