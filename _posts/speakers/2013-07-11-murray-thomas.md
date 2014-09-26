@@ -9,7 +9,7 @@ image: Murray_Thomas.JPG
 published: true
 teaser: 'Tom is dedicated to defining EMC as “a people company in the technology business.”'
 in: null
-tw: null
+tw: TomJMurray3
 ww: null
 ---
 As Chief Talent Officer, Tom is dedicated to defining EMC as “a people company in the technology business.”  Under Tom’s leadership, the Global Talent organization attracts, retains and develops the people who drive EMC’s success. 
