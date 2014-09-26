@@ -9,9 +9,11 @@ image: Murray_Thomas.JPG
 published: true
 teaser: 'Tom is dedicated to defining EMC as “a people company in the technology business.”'
 in: null
-tw: TomJMurray3
+tw: null
 ww: null
 ---
+Follow Tom Murray on Twitter: <a href="https://twitter.com/TomJMurray3" target="_blank">@TomJMurray3</a>
+
 As Chief Talent Officer, Tom is dedicated to defining EMC as “a people company in the technology business.”  Under Tom’s leadership, the Global Talent organization attracts, retains and develops the people who drive EMC’s success. 
 
 Bringing together an award-winning architecture of Talent Acquisition, Learning & Development, Executive Coaching, Talent Management and Employer Branding, Tom leads a team of 300 professionals around the world. His work ensures that 47,000 employees around the world are able to contribute fully to EMC’s future.
