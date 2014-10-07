@@ -4,7 +4,7 @@ date: "2013-09-08 08:30"
 categories: speakers
 title: Crosby
 name: Meredith Crosby
-position: Director, Strategic Initiatives
+position: Director, Strategic Initiatives, 3M
 image: Crosby_Meredith.jpg
 published: true
 teaser: Meredith Moore Crosby is the Director of Strategic Initiatives for 3Mgives. In this role, Meredith is responsible for the development and implementation of 3M’s strategy to create a deeper pipeline of high performing and diverse global talent through investments in education. 
